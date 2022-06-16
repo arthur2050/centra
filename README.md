@@ -5,7 +5,9 @@ This project was tested with OpenServer enviroment: OpenServer 5.4.1, PHP 7.4, A
 For run this apllication you need to:
 1.git clone 
 2.Copy this apllication to domains folder in OpenServer.
+![path folder](help_imgs/path_site.png)
 3.When you are in folder_domain_name(in my instance it's centra) you need to do composer install for install all dependecies.
+![composer install](help_imgs/composer_install.png)
 4.Set all enviroment variables associated with GitHub, otherwise you will see error from the apllication. 
 If you don't know how to set up enviroment variables you should follow this instructions: 
 Windows - https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/
