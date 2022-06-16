@@ -6,7 +6,7 @@ For run this apllication you need to:
 1.git clone https://github.com/arthur2050/centra.git.
 2.Copy this apllication to domains folder in OpenServer.
 ![path folder](help_imgs/path_site.png)
-3.When you are in folder_domain_name(in my instance it's centra) you need to do composer install for install all dependecies.
+3.When you are in folder_domain_name(in my instance it's centra) you need to do composer install for install all dependecies, of course you should to have installed composer.
 ![composer install](help_imgs/composer_install.png)
 4.Set all enviroment variables associated with GitHub, otherwise you will see error from the apllication. 
 If you don't know how to set up enviroment variables you should follow this instructions: 
