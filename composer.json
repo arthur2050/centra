@@ -1,0 +1,10 @@
+{
+    "require": {
+    	"php": "^7.2.5",
+        "mustache/mustache": "^2.14",
+        "knplabs/github-api": "3.0",
+        "guzzlehttp/guzzle": "7.0.1",
+        "http-interop/http-factory-guzzle": "1.0",
+        "michelf/php-markdown": "^1.9"
+    }
+}
