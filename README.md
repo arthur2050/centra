@@ -3,7 +3,7 @@ Test application for work with github api
 
 This project was tested with OpenServer enviroment: OpenServer 5.4.1, PHP 7.4, Apache 2.4, OS: Windows
 For run this apllication you need to:
-1.git clone 
+1.git clone https://github.com/arthur2050/centra.git.
 2.Copy this apllication to domains folder in OpenServer.
 ![path folder](help_imgs/path_site.png)
 3.When you are in folder_domain_name(in my instance it's centra) you need to do composer install for install all dependecies.
